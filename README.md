@@ -1,5 +1,5 @@
 ### Hello! Eu sou a Victória Thays 
-
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://linkedin.com/victória-thays-dos-santos-sousa)]
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victoriathays&show_icons=true&theme=tokyonight">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriathays&layout=compact&langs_count=16&theme=tokyonight">
